@@ -1,8 +1,5 @@
-# NixOS configurations
+# Almas datorkonfiguration
 
-Dioi machine configurations.
-
-This is a fork from jluttine. The structure is nice and the repo is being used as a foundation for the dioi configurations.
 
 Work in progress!
 
